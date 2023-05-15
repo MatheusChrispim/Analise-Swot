@@ -1,0 +1,61 @@
+@media (max-width: 1024px) {
+    body{
+        width: 100vw;
+        height: 50vh;
+    }
+
+    .card{
+        flex-direction: row;
+    }
+
+    .sigla{
+        width: 12vw;
+        height: 13vh;
+        margin-top: 150px;
+
+    }
+
+    .sigla h1{
+        justify-content: center;
+        margin: 0 10px 0 10px;
+        font-size: 80px;
+    }
+
+    .analise h2{
+        font-size: 25px;
+    }
+  }
+
+  @media (max-width: 1366px) {
+    body{
+        width: 100vw;
+    }
+
+    .sigla{
+        width: 7vw;
+        height: 13vh;
+        margin-top: 120px;
+        margin-bottom: 0;
+
+    }
+
+    .sigla h1{
+        justify-content: center;
+        margin: 0 10px 0 10px;
+        font-size: 80px;
+    }
+
+    .analise h2{
+        font-size: 25px;
+        margin-top: 0;
+    }
+
+    .list{
+        margin-top: 5px;
+    }
+
+    .list .point{
+        margin-bottom: 2px;
+        font-size: 13px;
+    }
+  }
