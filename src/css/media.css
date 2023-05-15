@@ -34,8 +34,8 @@
     .sigla{
         width: 7vw;
         height: 13vh;
-        margin-top: 120px;
-        margin-bottom: 0;
+        /* margin-top: 120px;
+        margin-bottom: 0; */
 
     }
 
@@ -55,7 +55,7 @@
     }
 
     .list .point{
-        margin-bottom: 2px;
+        margin-bottom: 1px;
         font-size: 13px;
     }
   }
