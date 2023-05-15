@@ -143,3 +143,6 @@ main{
     transform: translateY(-50px); 
 }
 
+.analise:hover{
+    cursor: pointer;
+}
